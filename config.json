@@ -1,0 +1,16 @@
+{
+    "exec1": {
+        "func": "mean",
+        "input": "a",
+        "size": "10",
+        "sub_topic":"a",
+        "pub_topic": "topicosaida"
+    },
+    "exec2": {
+        "func": "soma",
+        "input": "a",
+        "size": "10",
+        "sub_topic":"a",
+        "pub_topic": "saidasoma"
+    }
+}
